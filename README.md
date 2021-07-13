@@ -208,10 +208,10 @@ __19. Escriba las ecuaciones de corriente de rama para el circuito de la figura 
  ![](https://github.com/ItzAdoc/ImagenesD4/blob/main/8.19.PNG)
  ![](https://github.com/ItzAdoc/ImagenesD4/blob/main/8.19a.PNG)
 
-__21. Escriba las ecuaciones de corriente de rama para el circuito de la figura 8-81  y encuentre la corriente I_2.__
+__21. Escriba las ecuaciones de corriente de rama para el circuito de la figura 8-81  y encuentre la corriente I2.__
 
  
- 
+ ![](https://github.com/ItzAdoc/ImagenesD4/blob/main/21.8.jpg)
  
  __23. Vea el circuito de la figura  8-83.
     a. Escriba las ecuaciones de corriente de rama
