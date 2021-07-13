@@ -247,32 +247,31 @@ __31. Escriba las ecuaciones de malla para la red de la figura 8-86. Encuentre l
 
 __33. Escriba las ecuaciones de nodos para el circuito de la figura 8-88 y encuentre los voltajes de los nodos.__
 
-
+![](https://github.com/ItzAdoc/ImagenesD4/blob/main/33.8.jpg)
 
 __35. Repita el problema 33 para el circuito de la figura 8-90.__
 
-
-
+![](https://github.com/ItzAdoc/ImagenesD4/blob/main/35.8.jpg)
 
 
 __39. Convierta cada una de las redes Δ de la figura 8-92 en su configuración Y equivalente.__
 
 
-
+![](https://github.com/ItzAdoc/ImagenesD4/blob/main/39.8.jpg)
 
 __41. Convierta cada una de las redes Y de la figura 8-94 en su configuración Δ equivalente.__
 
-
+![](https://github.com/ItzAdoc/ImagenesD4/blob/main/41.8.jpg)
 
 
 __43. Utilice las conversiones  Δ-Y, Y- Δ, para encontrar la corriente I para el circuito de la figura 8-96.__
 
 
-
+![](https://github.com/ItzAdoc/ImagenesD4/blob/main/43.8.jpg)
 
 __45.Repita el problema 43 para el circuito de la figura 8-98.__
 
-
+![](https://github.com/ItzAdoc/ImagenesD4/blob/main/45.8.jpg)
 
 __47. Vea el circuito de la figura 8-100:
      a. ¿El puente esta balanceado? Explique.
@@ -281,9 +280,11 @@ __47. Vea el circuito de la figura 8-100:
      d. Determine el voltaje de R_5.__
 
 
-
+![](https://github.com/ItzAdoc/ImagenesD4/blob/main/47.8.jpg)
 
 __49. En el circuito puente de la figura 8-102 encuentre la corriente en cada resistor.__
+
+![](https://github.com/ItzAdoc/ImagenesD4/blob/main/49.8.jpg)
 
  4. Video
 
