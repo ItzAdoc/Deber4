@@ -25,7 +25,7 @@
  
  3. Resolución de los ejercicios
 
- __* Resolver los ejercicios del capítulo 5 y 6 del libro Análisis de Circuitos de Allan H. Robbins__
+ __* Resolver los ejercicios del capítulo 7 y 8 del libro Análisis de Circuitos de Allan H. Robbins__
  
  __CÁPITULO 7__
 
@@ -146,6 +146,14 @@ __37. Un amperímetro se usa para medir la corriente en el circuito que se muest
  *b. Determine los valores indicados cuando el amperímetro se usa para medir cada una de las corrientes que se indican en el circuito.*
  
  *c. Calcule el efecto de carga en el medidor cuando se mide cada una de las corrientes.*
+ 
+ ![](https://github.com/ItzAdoc/ImagenesD4/blob/main/37.PNG)
+ 
+ 
+ ![](https://github.com/ItzAdoc/ImagenesD4/blob/main/37a.PNG)
+ 
+ 
+ ![](https://github.com/ItzAdoc/ImagenesD4/blob/main/37b.PNG)
  
  __CÁPITULO 8__
  
