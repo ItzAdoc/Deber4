@@ -217,17 +217,22 @@ __19. Escriba las ecuaciones de corriente de rama para el circuito de la figura 
  
  4. Video
 
-
+*
 
 
 5. Conclusiones 
-* Dentro de los circuitos eléctricos se puede hacer una transformación de fuentes de voltaje y corriente, para así dependiendo del caso facilitar o simplificar un circuito y con ellos calcular lo	 que se quiera del circuito.
-* Cuando en un circuito hay varias fuentes de corriente se las puede sumar y con ello tener una fuente de corriente única, además las fuentes de corriente no pueden estar en serie porque violarían la ley de Kirchhoff. 
-* Hay varias formas de analizar circuitos eléctricos, cada una de las formas pueden ser mas o menos útiles dependiendo del circuito a analizar, pero con todas ellas se debería llegar a los mismos resultados.
-* Los circuitos generalmente se encontrar en una mezcla de resistores paralelos y resistores en serie, también conocido como circuitos mixtos. Para poder encontrar resistencia, voltaje y corriente en estos circuitos se usa las formulas y conceptos de cada uno de los casos (paralelo y serie).
-* Los instrumentos de medida como lo son el amperímetro y voltímetro tienen una cierta carga dentro de los circuitos, ya que, al utilizarlos, los valores medidos pueden variar por esta carga que producen los instrumentos.  
-* Dentro de los circuitos se puede dar el uso de potenciómetros, los cuales son resistores variables y gracias a que son variables existe una caída menor o mayor de voltaje dentro de los circuitos dependiendo del valor que tome el potenciómetro. 
 
+* Dentro de los circuitos eléctricos se puede hacer una transformación de fuentes de voltaje y corriente, para así dependiendo del caso facilitar o simplificar un circuito y con ellos calcular lo	 que se quiera del circuito.
+
+* Cuando en un circuito hay varias fuentes de corriente se las puede sumar y con ello tener una fuente de corriente única, además las fuentes de corriente no pueden estar en serie porque violarían la ley de Kirchhoff. 
+
+* Hay varias formas de analizar circuitos eléctricos, cada una de las formas pueden ser mas o menos útiles dependiendo del circuito a analizar, pero con todas ellas se debería llegar a los mismos resultados.
+
+* Los circuitos generalmente se encontrar en una mezcla de resistores paralelos y resistores en serie, también conocido como circuitos mixtos. Para poder encontrar resistencia, voltaje y corriente en estos circuitos se usa las formulas y conceptos de cada uno de los casos (paralelo y serie).
+
+* Los instrumentos de medida como lo son el amperímetro y voltímetro tienen una cierta carga dentro de los circuitos, ya que, al utilizarlos, los valores medidos pueden variar por esta carga que producen los instrumentos.  
+
+* Dentro de los circuitos se puede dar el uso de potenciómetros, los cuales son resistores variables y gracias a que son variables existe una caída menor o mayor de voltaje dentro de los circuitos dependiendo del valor que tome el potenciómetro. 
 
 
 6. Bibliografía
