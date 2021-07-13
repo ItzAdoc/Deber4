@@ -100,24 +100,28 @@ __37. Un amperímetro se usa para medir la corriente en el circuito que se muest
  
  __CÁPITULO 8__
  
- __1. Encuentre el voltaje VS para el circuito de la figura 8-64.__
+__1. Encuentre el voltaje VS para el circuito de la figura 8-64.__
+ ![](https://github.com/ItzAdoc/ImagenesD4/blob/main/8.1.PNG)
  
- 
- __3. Vea el circuito de la figura 8-66__
- 
+__3. Vea el circuito de la figura 8-66__
+
 *a. Encuentre la corriente I3.* 
 
 *b. Determine los voltajes VS y V1.*
-
+![](https://github.com/ItzAdoc/ImagenesD4/blob/main/8.3.PNG)
+![](https://github.com/ItzAdoc/ImagenesD4/blob/main/8.3a.PNG)
 
 __5.	Para el circuito de la figura 8-68 encuentre las corrientes I1 e I2.__
 
-
+![](https://github.com/ItzAdoc/ImagenesD4/blob/main/8.5.PNG)
+![](https://github.com/ItzAdoc/ImagenesD4/blob/main/8.5a.PNG)
 __7.	Verifique que la potencia suministrada por las fuentes es igual a la suma de las potencias disipadas por los resistores en el circuito de la figura 8-68.__
 
+![](https://github.com/ItzAdoc/ImagenesD4/blob/main/8.7.PNG)
 
 __9. Convierta cada fuente de voltaje de la figura 8-70 en su fuente de corriente equivalente.__
 
+![](https://github.com/ItzAdoc/ImagenesD4/blob/main/8.9.PNG)
 
 
 __11. Vea el circuito de la figura 8-72:__ 
@@ -126,9 +130,11 @@ __11. Vea el circuito de la figura 8-72:__
 
 *b. Convierta la fuente de corriente en su fuente de voltaje equivalente y determine, otra vez, la corriente a través de la carga.*
 
+![](https://github.com/ItzAdoc/ImagenesD4/blob/main/8.11.PNG)
 __13. Vea el circuito de la figura 8-74:__ 
  
- 
+ ![](https://github.com/ItzAdoc/ImagenesD4/blob/main/8.13NG)
+ ![](https://github.com/ItzAdoc/ImagenesD4/blob/main/8.13a
  __15. Encuentre el voltaje V2 y la corriente I1 para el circuito de la figura 8-76.__
  
  
