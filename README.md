@@ -146,6 +146,7 @@ __13. Vea el circuito de la figura 8-74:__
  ![](https://github.com/ItzAdoc/ImagenesD4/blob/main/8.15.PNG)
  
  __17. Para el circuito de la figura 8-78 convierta la fuente de corriente y el resistor de 2.4 kΩ en una fuente de voltaje y calcule el voltaje Vab y la corriente I3.__
+ 
  ![](https://github.com/ItzAdoc/ImagenesD4/blob/main/8.17.PNG)
  ![](https://github.com/ItzAdoc/ImagenesD4/blob/main/8.17a.PNG)
  ![](https://github.com/ItzAdoc/ImagenesD4/blob/main/8.17b.PNG)
