@@ -91,7 +91,7 @@ __35. Un voltímetro con una sensibilidad de S 20 kΩ/V se usa en la escala de 
 __37. Un amperímetro se usa para medir la corriente en el circuito que se muestra en la figura 7-76.__
 
  *a. Explique cómo conectar de manera correcta el amperímetro para medir la corriente I1.*
- 
+     Se abre el circuito entre el polo positivo de la fuente de voltaje y al extremo izquierdo de la resistencia de 5.6 Ω, luego se conecta el terminal positivo del amperímetro      al polo que se abrió de la fuente de alimentación y el terminal negativo al extremo izquierdo de la resistencia de 5.6 Ω. 
  *b. Determine los valores indicados cuando el amperímetro se usa para medir cada una de las corrientes que se indican en el circuito.*
  
  *c. Calcule el efecto de carga en el medidor cuando se mide cada una de las corrientes.*
