@@ -157,6 +157,7 @@ __37. Un amperímetro se usa para medir la corriente en el circuito que se muest
  
  __CÁPITULO 8__
  
+ 
 __1. Encuentre el voltaje VS para el circuito de la figura 8-64.__
 
  ![](https://github.com/ItzAdoc/ImagenesD4/blob/main/8.1.PNG)
