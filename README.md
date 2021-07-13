@@ -166,9 +166,10 @@ __3. Vea el circuito de la figura 8-66__
 *a. Encuentre la corriente I3.* 
 
 *b. Determine los voltajes VS y V1.*
-![](https://github.com/ItzAdoc/ImagenesD4/blob/main/8.3.PNG)
 
-![](https://github.com/ItzAdoc/ImagenesD4/blob/main/8.3a.PNG)
+![](https://github.com/ItzAdoc/ImagenesD4/blob/main/Ocho.3.PNG)
+
+![](https://github.com/ItzAdoc/ImagenesD4/blob/main/Ocho.3a.PNG)
 
 __5.	Para el circuito de la figura 8-68 encuentre las corrientes I1 e I2.__
 
