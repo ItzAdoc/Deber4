@@ -27,14 +27,14 @@
 
 1. Para las redes de la figura 7-46, determine cuales resistores y ramas están en serie y cuales en paralelo. Escriba una expresión para la resistencia total, RT.
      
-     <br></br>
+     
 __3. Escriba una expresión para RT1 y RT2 para las redes de la figura 7-48.__
 
-<br></br>
+
 __5. Las redes de resistores tienen las resistencias totales que se muestran a continuación.__ 
    __Dibuje un circuito que corresponda a cada expresión.__
 
-<br></br>
+
 __7. Determine la resistencia total para cada red de la figura 7-50.__
 
 
@@ -76,6 +76,7 @@ __35. Un voltímetro con una sensibilidad de S 20 kΩ/V se usa en la escala de 
   
   
 __37. Un amperímetro se usa para medir la corriente en el circuito que se muestra en la figura 7-76.__
+
  *a. Explique cómo conectar de manera correcta el amperímetro para medir la corriente I1.*
  
  *b. Determine los valores indicados cuando el amperímetro se usa para medir cada una de las corrientes que se indican en el circuito.*
@@ -85,6 +86,42 @@ __37. Un amperímetro se usa para medir la corriente en el circuito que se muest
  
  __1. Encuentre el voltaje VS para el circuito de la figura 8-64.__
  
+ 
+ __3. Vea el circuito de la figura 8-66__
+ 
+*a. Encuentre la corriente I3.* 
+
+*b. Determine los voltajes VS y V1.*
+
+
+__5.	Para el circuito de la figura 8-68 encuentre las corrientes I1 e I2.__
+
+
+__7.	Verifique que la potencia suministrada por las fuentes es igual a la suma de las potencias disipadas por los resistores en el circuito de la figura 8-68.__
+
+
+__9. Convierta cada fuente de voltaje de la figura 8-70 en su fuente de corriente equivalente.__
+
+
+
+__11. Vea el circuito de la figura 8-72:__ 
+
+*a. Encuentre la corriente a través del resistor de carga con la regla del divisor de corriente.*
+
+*b. Convierta la fuente de corriente en su fuente de voltaje equivalente y determine, otra vez, la corriente a través de la carga.*
+
+__13. Vea el circuito de la figura 8-74:__ 
+ 
+ 
+ __15. Encuentre el voltaje V2 y la corriente I1 para el circuito de la figura 8-76.__
+ 
+ 
+ __19. Para el circuito de la figura 8-78 convierta la fuente de corriente y el resistor de 2.4 kΩ en una fuente de voltaje y calcule el voltaje Vab y la corriente I3.
+ 
+
+
+
+__19. Escriba las ecuaciones de corriente de rama para el circuito de la figura 8-79 y encuentre las corrientes de rama mediante determinantes__
  
  
  4. Video
