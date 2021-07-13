@@ -140,8 +140,6 @@ __35. Un voltímetro con una sensibilidad de S 20 kΩ/V se usa en la escala de 
   
 __37. Un amperímetro se usa para medir la corriente en el circuito que se muestra en la figura 7-76.__
 
-![](https://github.com/ItzAdoc/ImagenesD4/blob/main/37.PNG)
-
  *a. Explique cómo conectar de manera correcta el amperímetro para medir la corriente I1.*
  
    Se abre el circuito entre el polo positivo de la fuente de voltaje y al extremo izquierdo de la resistencia de 5.6 Ω, luego se conecta el terminal positivo del amperímetro      al polo que se abrió de la fuente de alimentación y el terminal negativo al extremo izquierdo de la resistencia de 5.6 Ω. 
@@ -149,10 +147,6 @@ __37. Un amperímetro se usa para medir la corriente en el circuito que se muest
  *b. Determine los valores indicados cuando el amperímetro se usa para medir cada una de las corrientes que se indican en el circuito.*
  
  *c. Calcule el efecto de carga en el medidor cuando se mide cada una de las corrientes.*
- 
- ![](https://github.com/ItzAdoc/ImagenesD4/blob/main/37a.PNG)
- 
- ![](https://github.com/ItzAdoc/ImagenesD4/blob/main/37b.PNG)
  
  __CÁPITULO 8__
  
@@ -224,12 +218,12 @@ __21. Escriba las ecuaciones de corriente de rama para el circuito de la figura 
     b. Encuentre la corriente I2.
     c. Determine el voltaje V(a-b).__
 
-
+![](https://github.com/ItzAdoc/ImagenesD4/blob/main/23.8.jpg)
 
 
 __25. Escriba las ecuaciones de malla para el circuito que se muestra en la figura 8-79 y encuentre las corrientes de lazo.__
 
-
+![](https://github.com/ItzAdoc/ImagenesD4/blob/main/25.8.jpg)
 
 
 
@@ -237,13 +231,13 @@ __27. Utilice el análisis de malla para encontrar la corriente I_2 en el circui
 
 
 
-
+![](https://github.com/ItzAdoc/ImagenesD4/blob/main/27.8.jpg)
 
 
 __29. Utilice el análisis de la malla para encontrar la corriente de lazo en el circuito de la figura 8-84. Use sus resultados para determinar I  y  Vab.__
 
 
-
+![](https://github.com/ItzAdoc/ImagenesD4/blob/main/29.8.jpg)
 
 
 
