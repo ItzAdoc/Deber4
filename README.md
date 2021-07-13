@@ -239,8 +239,51 @@ __29. Utilice el análisis de la malla para encontrar la corriente de lazo en el
 
 ![](https://github.com/ItzAdoc/ImagenesD4/blob/main/29.8.jpg)
 
+__31. Escriba las ecuaciones de malla para la red de la figura 8-86. Encuentre las corrientes de lazo con determinantes.__
 
 
+![](https://github.com/ItzAdoc/ImagenesD4/blob/main/31.8.jpg)
+
+
+__33. Escriba las ecuaciones de nodos para el circuito de la figura 8-88 y encuentre los voltajes de los nodos.__
+
+
+
+__35. Repita el problema 33 para el circuito de la figura 8-90.__
+
+
+
+
+
+__39. Convierta cada una de las redes Δ de la figura 8-92 en su configuración Y equivalente.__
+
+
+
+
+__41. Convierta cada una de las redes Y de la figura 8-94 en su configuración Δ equivalente.__
+
+
+
+
+__43. Utilice las conversiones  Δ-Y, Y- Δ, para encontrar la corriente I para el circuito de la figura 8-96.__
+
+
+
+
+__45.Repita el problema 43 para el circuito de la figura 8-98.__
+
+
+
+__47. Vea el circuito de la figura 8-100:
+     a. ¿El puente esta balanceado? Explique.
+     b. Escriba las ecuaciones de malla.
+     c. Calcule la corriente a través de R_5.
+     d. Determine el voltaje de R_5.__
+
+
+
+
+__49. En el circuito puente de la figura 8-102 encuentre la corriente en cada resistor.__
 
  4. Video
 
