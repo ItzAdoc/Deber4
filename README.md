@@ -28,36 +28,63 @@
  __CÁPITULO 7__
 
 __1. Para las redes de la figura 7-46, determine cuales resistores y ramas están en serie y cuales en paralelo. Escriba una expresión para la resistencia total, RT.__
-     
+
+![](https://github.com/ItzAdoc/ImagenesD4/blob/main/Ej1.jpg)
      
 __3. Escriba una expresión para RT1 y RT2 para las redes de la figura 7-48.__
 
+![](https://github.com/ItzAdoc/ImagenesD4/blob/main/Ej3.jpg)
 
 __5. Las redes de resistores tienen las resistencias totales que se muestran a continuación.__ 
 
    __Dibuje un circuito que corresponda a cada expresión.__
 
+![](https://github.com/ItzAdoc/ImagenesD4/blob/main/Ej5.jpg)
 
 __7. Determine la resistencia total para cada red de la figura 7-50.__
 
+![](https://github.com/ItzAdoc/ImagenesD4/blob/main/Ej7.jpg)
 
 __9. Calcule la resistencia Rab y Rcd en el circuito de la figura 7-52.__
 
+![](https://github.com/ItzAdoc/ImagenesD4/blob/main/Ej9.1.jpg)
+
+![](https://github.com/ItzAdoc/ImagenesD4/blob/main/Ej9.2.jpg)
+
 __11. Vea el circuito de la figura 7-54.__
-  En imagen 
+
+![](https://github.com/ItzAdoc/ImagenesD4/blob/main/Ej11.1.jpg)
+
+![](https://github.com/ItzAdoc/ImagenesD4/blob/main/Ej11.2.jpg)
+
+![](https://github.com/ItzAdoc/ImagenesD4/blob/main/Ej11.3.jpg)
 
 __13. Vea el circuito de la figura 7-56.__
 
+![](https://github.com/ItzAdoc/ImagenesD4/blob/main/Ej13.1.jpg)
 
-__15. Vea los circuitos de la figura 7-58.__
+![](https://github.com/ItzAdoc/ImagenesD4/blob/main/Ej13.2.jpg)
+
+__25.  Calcule IC y VCE para el circuito de la figura 7-67.__
+
+![](https://github.com/ItzAdoc/ImagenesD4/blob/main/25.PNG)
+
+![](https://github.com/ItzAdoc/ImagenesD4/blob/main/Ej25.jpg)
 
 
 __27. Vea el circuito de la figura 7-69: 
       Determine el intervalo de voltajes que aparecerán en R_L a medida que le potenciómetro varíe entre sus valores mínimo y máximo.
       Si R2 se ajusta para tener 2.5kΩ ¿Cuál será el voltaje VL? Si se remueve el resistor de carga ¿Qué voltaje aparecerá entre las terminales a y b?__
+      
+![](https://github.com/ItzAdoc/ImagenesD4/blob/main/Ej27.1.jpg)
+
+![](https://github.com/ItzAdoc/ImagenesD4/blob/main/Ej27.2.jpg)
+
+![](https://github.com/ItzAdoc/ImagenesD4/blob/main/Ej27.3.jpg)
 
 __29. Si el potenciómetro de la figura 7-70 se ajusta para que R2=200Ω, determine los voltajes Vab y Vbc.__
 
+![](https://github.com/ItzAdoc/ImagenesD4/blob/main/Ej29.jpg)
 
 __31. Vea el circuito de la figura 7-71:__ 
 
@@ -69,6 +96,7 @@ __31. Vea el circuito de la figura 7-71:__
 __33. En el circuito de la figura 7-72 calcule el voltaje de salida Vsal cuando RL = 0Ω, 250Ω y 500Ω.__
 
 ![](https://github.com/ItzAdoc/ImagenesD4/blob/main/33.PNG)
+
 ![](https://github.com/ItzAdoc/ImagenesD4/blob/main/33a.PNG)
 
 __35. Un voltímetro con una sensibilidad de S 20 kΩ/V se usa en la escala de 10 V (con una resistencia interna total de 200 kΩ) para medir el voltaje en el resistor de 750 kΩ de la figura 7-74. El medidor indica un voltaje de 5.00 V.__
