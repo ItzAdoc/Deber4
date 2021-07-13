@@ -16,9 +16,12 @@
  <br></br>
  
  2. Marco Teórico
- ![]()
- ![]()
  
+ ![](https://github.com/ItzAdoc/ImagenesD4/blob/main/Marco7.jpeg)
+ 
+ ![](https://github.com/ItzAdoc/ImagenesD4/blob/main/Marco8.PNG)
+ 
+ ![](https://github.com/ItzAdoc/ImagenesD4/blob/main/Marco8a.PNG)
  
  3. Resolución de los ejercicios
 
