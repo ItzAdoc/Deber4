@@ -301,7 +301,7 @@ __49. En el circuito puente de la figura 8-102 encuentre la corriente en cada re
 
 * Los instrumentos de medida como lo son el amperímetro y voltímetro tienen una cierta carga dentro de los circuitos, ya que, al utilizarlos, los valores medidos pueden variar por esta carga que producen los instrumentos.  
 
-* Dentro de los circuitos se puede dar el uso de potenciómetros, los cuales son resistores variables y gracias a que son variables existe una caída menor o mayor de voltaje dentro de los circuitos dependiendo del valor que tome el potenciómetro. 
+* Dentro de los circuitos se puede dar el uso de potenciómetros, los cuales son resistores variables y gracias a que son variables existe una caída menor o mayor de voltaje dentro de los circuitos dependiendo del valor que tome el potenciómetro, además es importante recordar que cuando el valor del potenciómetro es 0 las  2 terminales (b y c) están en corto y por lo tanto  el voltaje en un cortocircuito siempre es cero.
 
 
 6. Bibliografía
