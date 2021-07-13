@@ -3,8 +3,8 @@
 1. Objetivos
 
  *__Objetivos Generales__*
- * Analizar  
- * Indicar
+ * Conocer la teoría respecto a fuentes de corriente y voltaje, métodos de resolución de circuitos eléctricos para poder resolver cualquier tipo de circuito.   
+ * Conocer la teoría acerca de resistencia, voltaje, corriente, efectos de carga de los instrumentos de medida y caída de voltaje dentro de los circuitos eléctricos, ya sean paralelos, serie o mixtos para aplicarlos en los mismos. 
  
 *__Objetivos Específicos__*
 * Convertir una fuente de voltaje en una fuente de corriente equivalente y viceversa
