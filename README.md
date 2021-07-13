@@ -5,11 +5,16 @@
  __Objetivos Generales__
  * a
  * b
- * c
- * d
+
  <br></br>
  __Objetivos Específicos__
- * a
+* Convertir una fuente de voltaje en una fuente de corriente equivalente y viceversa
+* Analizar los circuitos que tienen dos o más fuentes de corriente en paralelo
+* Plantear y resolver ecuaciones de rama, mallas y nodos para una red.
+* Encontrar la resistencia total, corriente, voltaje en una red que consiste en resistores en seriey/ o paralelo.
+* Calcular los efectos de carga de un voltímetro o un amperímetro cuando se usan para medir el voltaje o la corriente en algún circuito.
+* calcular la caída de voltaje en un resistor conectado a un potenciómetro.
+
  * b
  * c
  * d
