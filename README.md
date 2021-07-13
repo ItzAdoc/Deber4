@@ -52,6 +52,10 @@ __9. Calcule la resistencia Rab y Rcd en el circuito de la figura 7-52.__
 ![](https://github.com/ItzAdoc/ImagenesD4/blob/main/Ej9.2.jpg)
 
 __11. Vea el circuito de la figura 7-54.__
+      __Encuentre las siguientes cantidades:__
+*a. RT*
+*b. IT, I1, I2, I3, I4*
+*c. Vab, Vbc.*
 
 ![](https://github.com/ItzAdoc/ImagenesD4/blob/main/Ej11.1.jpg)
 
@@ -60,6 +64,13 @@ __11. Vea el circuito de la figura 7-54.__
 ![](https://github.com/ItzAdoc/ImagenesD4/blob/main/Ej11.3.jpg)
 
 __13. Vea el circuito de la figura 7-56.__
+
+*a. Encuentre las corrientes I1, I2, I3, I4, I5 e I6.*
+
+*b. Encuentre los voltajes Vab y Vcd.*
+
+*c. Verifique que la potencia suministrada al circuito es igual a la suma de las
+potencias disipadas por los resistores. *
 
 ![](https://github.com/ItzAdoc/ImagenesD4/blob/main/Ej13.1.jpg)
 
