@@ -101,6 +101,7 @@ __37. Un amperímetro se usa para medir la corriente en el circuito que se muest
  __CÁPITULO 8__
  
 __1. Encuentre el voltaje VS para el circuito de la figura 8-64.__
+
  ![](https://github.com/ItzAdoc/ImagenesD4/blob/main/8.1.PNG)
  
 __3. Vea el circuito de la figura 8-66__
@@ -109,12 +110,15 @@ __3. Vea el circuito de la figura 8-66__
 
 *b. Determine los voltajes VS y V1.*
 ![](https://github.com/ItzAdoc/ImagenesD4/blob/main/8.3.PNG)
+
 ![](https://github.com/ItzAdoc/ImagenesD4/blob/main/8.3a.PNG)
 
 __5.	Para el circuito de la figura 8-68 encuentre las corrientes I1 e I2.__
 
 ![](https://github.com/ItzAdoc/ImagenesD4/blob/main/8.5.PNG)
+
 ![](https://github.com/ItzAdoc/ImagenesD4/blob/main/8.5a.PNG)
+
 __7.	Verifique que la potencia suministrada por las fuentes es igual a la suma de las potencias disipadas por los resistores en el circuito de la figura 8-68.__
 
 ![](https://github.com/ItzAdoc/ImagenesD4/blob/main/8.7.PNG)
@@ -123,7 +127,6 @@ __9. Convierta cada fuente de voltaje de la figura 8-70 en su fuente de corrient
 
 ![](https://github.com/ItzAdoc/ImagenesD4/blob/main/8.9.PNG)
 
-
 __11. Vea el circuito de la figura 8-72:__ 
 
 *a. Encuentre la corriente a través del resistor de carga con la regla del divisor de corriente.*
@@ -131,20 +134,27 @@ __11. Vea el circuito de la figura 8-72:__
 *b. Convierta la fuente de corriente en su fuente de voltaje equivalente y determine, otra vez, la corriente a través de la carga.*
 
 ![](https://github.com/ItzAdoc/ImagenesD4/blob/main/8.11.PNG)
+
 __13. Vea el circuito de la figura 8-74:__ 
  
- ![](https://github.com/ItzAdoc/ImagenesD4/blob/main/8.13NG)
- ![](https://github.com/ItzAdoc/ImagenesD4/blob/main/8.13a
+ ![](https://github.com/ItzAdoc/ImagenesD4/blob/main/8.13.PNG)
+ 
+![](https://github.com/ItzAdoc/ImagenesD4/blob/main/8.13a.PNG)
+
  __15. Encuentre el voltaje V2 y la corriente I1 para el circuito de la figura 8-76.__
  
+ ![](https://github.com/ItzAdoc/ImagenesD4/blob/main/8.15.PNG)
  
- __19. Para el circuito de la figura 8-78 convierta la fuente de corriente y el resistor de 2.4 kΩ en una fuente de voltaje y calcule el voltaje Vab y la corriente I3.
+ __17. Para el circuito de la figura 8-78 convierta la fuente de corriente y el resistor de 2.4 kΩ en una fuente de voltaje y calcule el voltaje Vab y la corriente I3.__
+ ![](https://github.com/ItzAdoc/ImagenesD4/blob/main/8.17.PNG)
+ ![](https://github.com/ItzAdoc/ImagenesD4/blob/main/8.17a.PNG)
+ ![](https://github.com/ItzAdoc/ImagenesD4/blob/main/8.17b.PNG)
  
-
-
 
 __19. Escriba las ecuaciones de corriente de rama para el circuito de la figura 8-79 y encuentre las corrientes de rama mediante determinantes__
- 
+
+ ![](https://github.com/ItzAdoc/ImagenesD4/blob/main/8.19.PNG)
+ ![](https://github.com/ItzAdoc/ImagenesD4/blob/main/8.19a.PNG)
  
  4. Video
 
