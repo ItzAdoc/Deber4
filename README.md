@@ -25,7 +25,6 @@
  
  3. Resolución de los ejercicios
 
-
  __* Resolver los ejercicios del capítulo 5 y 6 del libro Análisis de Circuitos de Allan H. Robbins__
  
  __CÁPITULO 7__
@@ -288,8 +287,7 @@ __49. En el circuito puente de la figura 8-102 encuentre la corriente en cada re
 
  4. Video
 
-*
-
+* https://youtu.be/jPsbbf78nPg
 
 5. Conclusiones 
 
