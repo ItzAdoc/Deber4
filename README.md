@@ -210,8 +210,38 @@ __19. Escriba las ecuaciones de corriente de rama para el circuito de la figura 
 
 __21. Escriba las ecuaciones de corriente de rama para el circuito de la figura 8-81  y encuentre la corriente I_2.__
 
- ![](https://github.com/ItzAdoc/ImagenesD4/blob/main/21.8.PNG)
  
+ 
+ 
+ __23. Vea el circuito de la figura  8-83.
+    a. Escriba las ecuaciones de corriente de rama
+    b. Encuentre la corriente I2.
+    c. Determine el voltaje V(a-b).__
+
+
+
+
+__25. Escriba las ecuaciones de malla para el circuito que se muestra en la figura 8-79 y encuentre las corrientes de lazo.__
+
+
+
+
+
+__27. Utilice el análisis de malla para encontrar la corriente I_2 en el circuito de la figura 8-81.__
+
+
+
+
+
+
+__29. Utilice el análisis de la malla para encontrar la corriente de lazo en el circuito de la figura 8-84. Use sus resultados para determinar I  y  Vab.__
+
+
+
+
+
+
+
  4. Video
 
 *
