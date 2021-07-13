@@ -21,17 +21,20 @@
  
  
  3. Resolución de los ejercicios
+
+
  __* Resolver los ejercicios del capítulo 5 y 6 del libro Análisis de Circuitos de Allan H. Robbins__
  
  __CÁPITULO 7__
 
-1. Para las redes de la figura 7-46, determine cuales resistores y ramas están en serie y cuales en paralelo. Escriba una expresión para la resistencia total, RT.
+__1. Para las redes de la figura 7-46, determine cuales resistores y ramas están en serie y cuales en paralelo. Escriba una expresión para la resistencia total, RT.__
      
      
 __3. Escriba una expresión para RT1 y RT2 para las redes de la figura 7-48.__
 
 
 __5. Las redes de resistores tienen las resistencias totales que se muestran a continuación.__ 
+
    __Dibuje un circuito que corresponda a cada expresión.__
 
 
@@ -49,8 +52,9 @@ __13. Vea el circuito de la figura 7-56.__
 __15. Vea los circuitos de la figura 7-58.__
 
 
-__27. Vea el circuito de la figura 7-69: Determine el intervalo de voltajes que aparecerán en R_L a medida que le potenciómetro varíe entre sus valores mínimo y máximo.
-    Si R2 se ajusta para tener 2.5kΩ ¿Cuál será el voltaje VL? Si se remueve el resistor de carga ¿Qué voltaje aparecerá entre las terminales a y b?__
+__27. Vea el circuito de la figura 7-69: 
+      Determine el intervalo de voltajes que aparecerán en R_L a medida que le potenciómetro varíe entre sus valores mínimo y máximo.
+      Si R2 se ajusta para tener 2.5kΩ ¿Cuál será el voltaje VL? Si se remueve el resistor de carga ¿Qué voltaje aparecerá entre las terminales a y b?__
 
 __29. Si el potenciómetro de la figura 7-70 se ajusta para que R2=200Ω, determine los voltajes Vab y Vbc.__
 
@@ -82,6 +86,7 @@ __37. Un amperímetro se usa para medir la corriente en el circuito que se muest
  *b. Determine los valores indicados cuando el amperímetro se usa para medir cada una de las corrientes que se indican en el circuito.*
  
  *c. Calcule el efecto de carga en el medidor cuando se mide cada una de las corrientes.*
+ 
  __CÁPITULO 8__
  
  __1. Encuentre el voltaje VS para el circuito de la figura 8-64.__
