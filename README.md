@@ -119,6 +119,14 @@ __31. Vea el circuito de la figura 7-71:__
 
   *a. Determine el intervalo del voltaje de salida (del mínimo al máximo) que se espera cuando el potenciómetro se ajusta del mínimo al máximo.* 
   
+  Voltaje Mínimo 
+  
+El voltaje será 0V, debido a que RL vale 0 el circuito está en corto, por lo tanto, el voltaje en un cortocircuito siempre es cero.
+
+Voltaje Máximo
+
+
+  
   *b. Calcule R2 cuando Vsal 20 V.*
   
   
