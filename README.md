@@ -213,7 +213,7 @@ __21. Escriba las ecuaciones de corriente de rama para el circuito de la figura 
  
  4. Video
 
-*https://youtu.be/jPsbbf78nPg
+* https://youtu.be/jPsbbf78nPg
 
 
 5. Conclusiones 
