@@ -66,18 +66,27 @@ __31. Vea el circuito de la figura 7-71:__
   *b. Calcule R2 cuando Vsal 20 V.*
   
   
-33. 
+__33. En el circuito de la figura 7-72 calcule el voltaje de salida Vsal cuando RL = 0Ω, 250Ω y 500Ω.__
+
+![](https://github.com/ItzAdoc/ImagenesD4/blob/main/33.PNG)
+![](https://github.com/ItzAdoc/ImagenesD4/blob/main/33a.PNG)
 
 __35. Un voltímetro con una sensibilidad de S 20 kΩ/V se usa en la escala de 10 V (con una resistencia interna total de 200 kΩ) para medir el voltaje en el resistor de 750 kΩ de la figura 7-74. El medidor indica un voltaje de 5.00 V.__
 
+![](https://github.com/ItzAdoc/ImagenesD4/blob/main/35.PNG)
+
    *a. Determine el valor de la fuente de voltaje E.*
+   
+   ![](https://github.com/ItzAdoc/ImagenesD4/blob/main/35a.PNG)
   
    *b. ¿Qué voltaje se presentará en el resistor de 750 kΩ cuando el voltímetro se quite del circuito?*
+   ![](https://github.com/ItzAdoc/ImagenesD4/blob/main/35b.PNG)
   
    *c. Calcule el efecto de carga del medidor cuando se utilice como se muestra.*
+   ![](https://github.com/ItzAdoc/ImagenesD4/blob/main/35c.PNG)
   
    *d. Si se usa el mismo voltímetro para medir el voltaje en el resistor de 200kΩ, ¿cuál será la lectura*
-  
+  ![](https://github.com/ItzAdoc/ImagenesD4/blob/main/35d.PNG)
   
 __37. Un amperímetro se usa para medir la corriente en el circuito que se muestra en la figura 7-76.__
 
