@@ -3,17 +3,17 @@
 1. Objetivos
 
  *__Objetivos Generales__*
- * Entender como afecta el voltaje, corriente y resisntecia 
- * An
- <br></br>
+ * Analizar  
+ * Indicar
+ 
 *__Objetivos Específicos__*
 * Convertir una fuente de voltaje en una fuente de corriente equivalente y viceversa
 * Analizar los circuitos que tienen dos o más fuentes de corriente en paralelo
 * Plantear y resolver ecuaciones de rama, mallas y nodos para una red.
-* Encontrar la resistencia total, corriente, voltaje en una red que consiste en resistores en seriey/ o paralelo.
+* Encontrar la resistencia total, corriente, voltaje en una red que consta de resistores en serie y/o paralelo.
 * Calcular los efectos de carga de un voltímetro o un amperímetro cuando se usan para medir el voltaje o la corriente en algún circuito.
 * calcular la caída de voltaje en un resistor conectado a un potenciómetro.
- <br></br>
+
  
  2. Marco Teórico
  
@@ -221,7 +221,12 @@ __19. Escriba las ecuaciones de corriente de rama para el circuito de la figura 
 
 
 5. Conclusiones 
-
+* Dentro de los circuitos eléctricos se puede hacer una transformación de fuentes de voltaje y corriente, para así dependiendo del caso facilitar o simplificar un circuito y con ellos calcular lo	 que se quiera del circuito.
+* Cuando en un circuito hay varias fuentes de corriente se las puede sumar y con ello tener una fuente de corriente única, además las fuentes de corriente no pueden estar en serie porque violarían la ley de Kirchhoff. 
+* Hay varias formas de analizar circuitos eléctricos, cada una de las formas pueden ser mas o menos útiles dependiendo del circuito a analizar, pero con todas ellas se debería llegar a los mismos resultados.
+* Los circuitos generalmente se encontrar en una mezcla de resistores paralelos y resistores en serie, también conocido como circuitos mixtos. Para poder encontrar resistencia, voltaje y corriente en estos circuitos se usa las formulas y conceptos de cada uno de los casos (paralelo y serie).
+* Los instrumentos de medida como lo son el amperímetro y voltímetro tienen una cierta carga dentro de los circuitos, ya que, al utilizarlos, los valores medidos pueden variar por esta carga que producen los instrumentos.  
+* Dentro de los circuitos se puede dar el uso de potenciómetros, los cuales son resistores variables y gracias a que son variables existe una caída menor o mayor de voltaje dentro de los circuitos dependiendo del valor que tome el potenciómetro. 
 
 
 
