@@ -54,7 +54,9 @@
 
 
 31. Vea el circuito de la figura 7-71: 
+
   a. Determine el intervalo del voltaje de salida (del mínimo al máximo) que se espera cuando el potenciómetro se ajusta del mínimo al máximo. 
+  
   b. Calcule R2 cuando Vsal 20 V.
   
   
@@ -62,9 +64,15 @@
 
 35. Un voltímetro con una sensibilidad de S 20 kΩ/V se usa en la escala de 10 V (con una resistencia interna total de 200 kΩ) para medir el voltaje en el resistor de 750 kΩ de la figura 7-74. El medidor indica un voltaje de 5.00 V.
   a. Determine el valor de la fuente de voltaje E.
+  
   b. ¿Qué voltaje se presentará en el resistor de 750 kΩ cuando el voltímetro se quite del circuito?
+  
   c. Calcule el efecto de carga del medidor cuando se utilice como se muestra.
+  
   d. Si se usa el mismo voltímetro para medir el voltaje en el resistor de 200kΩ, ¿cuál será la lectura
+  
+  
+37. Un amperímetro se usa para medir la corriente en el circuito que se muestra en la figura 7-76. 
  
  __CÁPITULO 8__
  
